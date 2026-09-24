@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is part of my SWYNX Internship – Task 1.
+This project is part of my SWYNEX Internship – Task 1.
 
 The objective of this task is to clean and transform an E-Commerce Sales dataset using Microsoft Excel and Power Query and prepare the data for further analysis.
 
