@@ -1,4 +1,4 @@
-# SWYNX Internship – Task 1: E-Commerce Sales Data Cleaning
+# SWYNEX Internship – Task 1: E-Commerce Sales Data Cleaning
 
 ## Project Overview
 
